@@ -2,16 +2,16 @@
 This project focuses on skin cancer detection using deep learning, aiming to support early identification of malignant skin lesions through image classification. The system analyzes dermoscopic images and classifies them as Benign or Malignant, highlighting potentially high-risk cases. 
 
 
-🧬 Skin Cancer Detection Using Deep Learning
+🧬 *Skin Cancer Detection Using Deep Learning*
 
-📌 Project Overview
+📌 *Project Overview*
 
 Skin cancer is one of the most common cancers worldwide, and early detection plays a critical role in successful treatment.
 This project explores the use of deep learning image classification models to assist in identifying potentially high-risk skin lesions.
 
 We implemented and compared multiple neural network architectures and selected the best-performing model based on accuracy, loss, and recall, with a strong emphasis on minimizing false negatives.
 
-🔍 What the Application Does
+🔍 *What the Application Does*
 
 Analyzes dermoscopic skin lesion images
 
@@ -25,7 +25,7 @@ Offers a simple and interactive web interface for image upload and prediction
 
 prediction
 
-🧠 Models Used
+🧠 *Models Used*
 
 The following deep learning architectures were implemented and compared:
 
@@ -45,7 +45,7 @@ Better balance between accuracy and computational efficiency
 
 efficiency
 
-📊 Dataset
+📊 *Dataset*
 
 Source: Public dermoscopic skin lesion dataset
 
@@ -65,7 +65,7 @@ Long training times on the full dataset
 
 Faster experimentation while maintaining strong performance
 
-🛠️ Techniques Applied
+🛠️ *Techniques Applied*
 
 Image resizing and normalization
 
@@ -79,13 +79,13 @@ Threshold tuning to improve recall
 
 recall
 
-🚀 Deployment
+🚀 *Deployment*
 
 The final model is deployed as a Hugging Face Space, allowing real-time image classification through a web interface.
 
-🔗 Live Demo:
+🔗 *Live Demo*:
 
-📁 Project Structure
+📁 *Project Structure*
 ├── models/
 │   ├── cnn_model.keras
 │   ├── vgg_model.keras
@@ -96,7 +96,8 @@ The final model is deployed as a Hugging Face Space, allowing real-time image cl
 └── README.md
 
 
-🧪 Evaluation Metrics
+
+🧪 *Evaluation Metrics*
 Accuracy
 
 Precision
@@ -109,5 +110,6 @@ Confusion Matrix
 
 Classification Report
 
-🧑‍💻 Author
+🧑‍💻 *Author*
+
 Developed as a final bootcamp project focusing on applied deep learning and responsible AI use.
