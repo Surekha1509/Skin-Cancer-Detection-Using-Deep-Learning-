@@ -110,6 +110,13 @@ Confusion Matrix
 
 Classification Report
 
+*Conclusion*
+
+Our project shows that deep learning can effectively assist in skin cancer detection.
+EfficientNetB0 achieved the best performance for our task, especially in terms of recall.
+⚠️ This project is for educational and research purposes only and is not a medical diagnosis.
+
+
 🧑‍💻 *Author*
 
 Developed as a final bootcamp project focusing on applied deep learning and responsible AI use.
