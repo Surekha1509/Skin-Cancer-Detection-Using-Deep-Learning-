@@ -114,6 +114,7 @@ Classification Report
 
 Our project shows that deep learning can effectively assist in skin cancer detection.
 EfficientNetB0 achieved the best performance for our task, especially in terms of recall.
+
 ⚠️ This project is for educational and research purposes only and is not a medical diagnosis.
 
 
