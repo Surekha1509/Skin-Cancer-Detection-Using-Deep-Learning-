@@ -37,7 +37,7 @@ EfficientNet-B0 (Transfer Learning) ✅ Final Model
 
 EfficientNet-B0 was selected as the final model due to:
 
-Strong performance on both small and large datasets
+Strong performance on both small and large datasets(95.75% accuracy and 96.79% recall)
 
 Lower validation loss
 
@@ -83,7 +83,7 @@ recall
 
 The final model is deployed as a Hugging Face Space, allowing real-time image classification through a web interface.
 
-🔗 *Live Demo*:
+🔗 *Live Demo*: https://huggingface.co/spaces/surekhajan/s_c_d
 
 📁 *Project Structure*
 ├── models/
@@ -91,7 +91,7 @@ The final model is deployed as a Hugging Face Space, allowing real-time image cl
 │   ├── vgg_model.keras
 │   └── effnet_model.keras
 ├── app.py               # Web application
-├── training_notebook.ipynb
+├── training_notebook.ipynb #effnet_model.keras
 ├── requirements.txt
 └── README.md
 
